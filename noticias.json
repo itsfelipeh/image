@@ -1,22 +1,10 @@
 {
-  "items": [
-    {
-      "id": "carabineros-refuerza-dotacion",
-      "title": "Carabineros refuerza su dotación",
-      "url": "https://tusitio.cl/noticias/carabineros-refuerza-dotacion",
-      "date": "2025-09-03T10:30:00Z",
-      "category": "Municipalidad",
-      "image": "https://raw.githubusercontent.com/itsfelipeh/image/main/image.jpeg",
-      "excerpt": "23 nuevos efectivos se sumaron a las labores de prevención y seguridad en nuestra comuna…"
-    },
-    {
-      "id": "pasamos-agosto",
-      "title": "Adultos Mayores dieron la bienvenida a septiembre en la fiesta “Pasamos Agosto”",
-      "url": "https://tusitio.cl/noticias/pasamos-agosto",
-      "date": "2025-09-02T14:00:00Z",
-      "category": "Evento",
-      "image": "https://raw.githubusercontent.com/itsfelipeh/image/main/image.jpeg",
-      "excerpt": "Con música, concursos y mucha alegría, los adultos mayores de la comuna celebraron…"
-    }
-  ]
+  "items": [{
+    "title": "Test imagen externa",
+    "url": "https://example.com",
+    "date": "2025-09-03T10:30:00Z",
+    "category": "Prueba",
+    "image": "https://picsum.photos/800/500",
+    "excerpt": "Solo para probar carga de imagen."
+  }]
 }
